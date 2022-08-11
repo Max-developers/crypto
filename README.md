@@ -8,6 +8,7 @@
 # Запуск программы из консоли:
 
 ![screen2](https://user-images.githubusercontent.com/36957591/184067760-e26f6505-5773-4c67-96ec-a0492f50e109.png)
+
 ![screen3](https://user-images.githubusercontent.com/36957591/184067785-029433bb-2613-44f8-9a32-a0e55b37ce71.png)
 
 
