@@ -17,6 +17,7 @@ sudo apt update
 sudo apt install python3-pyqt5
 
 
+
 Запуск самой программы из консоли:
 
 cd crypto 
